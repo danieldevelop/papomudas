@@ -14,5 +14,4 @@ Programa orientado a objetos, que realiza operaciones basicas de matematicas
 ## Recusos
 
 - [Eclipse IDE](https://www.eclipse.org/downloads/) - Entorno de Desarrollo Integrado
-- [Ecuación de 2 Grado](https://www.matesfacil.com/resueltos-ecuaciones-segundo-grado.htm) - Ecuación Cuadratica
 
